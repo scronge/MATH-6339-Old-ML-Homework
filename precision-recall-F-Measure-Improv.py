@@ -1,3 +1,7 @@
+"""
+Same as the other file but "improved" according to chatgpt to add modularity and input validation...
+"""
+
 import numpy as np
 
 # Function to calculate precision, recall, and F-measure
